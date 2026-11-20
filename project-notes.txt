@@ -1,0 +1,7 @@
+D360 Environment Readiness Checker
+
+Purpose:
+Internal tool for repeatable D360 environment checks.
+
+Environment:
+Non-production only.
